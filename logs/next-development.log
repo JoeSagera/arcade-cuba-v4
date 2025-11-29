@@ -1,0 +1,3 @@
+[00:12:42.376] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/workspaces/arcade-cuba-v4/arcade-cuba/app'
+[00:12:42.385] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/workspaces/arcade-cuba-v4/arcade-cuba/app'
+[00:12:42.394] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/workspaces/arcade-cuba-v4/arcade-cuba/app'
